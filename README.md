@@ -1,4 +1,4 @@
-# Scdedule
+# Schedule
 # TODO
 - [ ] Amazon Interview before 4/10
 - [ ] Apply to 70 internships 10/70
