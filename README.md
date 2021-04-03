@@ -1,15 +1,28 @@
 # Things to do
 - [ ] Amazon Interview before 4/10
+- [ ] Apply to 70 internships 10/70
 
-## School 
-- [ ] (SOCY 325) Paper 4/9
+## School Work
+### SOCY325
+- [ ] Paper 4/9
 - [ ] Check for quiz
-- [ ] (CMSC 417) Quiz TuTh
-- [ ] (CMSC 417) DNS Project 4/14
-- [ ] (CMSC 417) all_hw 4/4
-- [ ] (CMSC 430) Assignment 5 4/7
 
-# Projects
+### CMSC417
+- [ ] Quiz TuTh
+- [ ] DNS Project 4/14
+- [ ] all_hw 4/4
+### CMSC430
+- [ ] Assignment 5 4/7
+- [ ] Catch up to lectures
+  
+### MATH406
+- [ ] Homework cryptography
+
+### CMSC388
+- [ ] Quiz 4/9
+
+
+## Projects
 - [ ] Finish documentation 
 - [ ] Add some stuff to archive
-- [ ] Pesonal Website
+- [ ] Personal Website
