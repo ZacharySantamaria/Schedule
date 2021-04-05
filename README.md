@@ -11,7 +11,7 @@
 ### CMSC417
 - [ ] Quiz TuTh
 - [ ] DNS Project 4/14
-- [ ] all_hw 4/4
+- [X] all_hw 4/4
 ### CMSC430
 - [ ] Assignment 5 4/7
 - [ ] Catch up to lectures
