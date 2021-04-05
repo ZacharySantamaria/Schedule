@@ -13,11 +13,12 @@
 - [ ] DNS Project 4/14
 - [X] all_hw 4/4
 ### CMSC430
-- [ ] Assignment 5 4/7
-- [ ] Catch up to lectures
+- [ ] Assignment 5 4/7 - In Progress
+- [ ] Catch up to lectures - In Progress
+- [ ] Exam 4/9
   
 ### MATH406
-- [ ] Homework cryptography
+- [ ] Homework 4/9
 
 ### CMSC388
 - [ ] Quiz 4/9
