@@ -9,19 +9,17 @@
 - [ ] Check for quiz
 
 ### CMSC417
-- [ ] Quiz TuTh
+- [X] Quiz TuTh
 - [ ] DNS Project 4/14
-- [X] all_hw 4/4
 ### CMSC430
-- [X] Assignment 5 4/7
 - [ ] Catch up to lectures - In Progress
 - [ ] Exam 4/9 - In Progress
   
 ### MATH406
-- [X] Homework 4/9
+- [ ] Homework 4/15
 
 ### CMSC388
-- [ ] Quiz 4/9
+
 
 
 ## Projects
