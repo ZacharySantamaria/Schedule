@@ -5,7 +5,7 @@
 
 ## School Work
 ### SOCY325
-- [ ] Paper 4/9
+- [X] Paper 4/9
 - [ ] Check for quiz
 
 ### CMSC417
@@ -13,12 +13,12 @@
 - [ ] DNS Project 4/14
 - [X] all_hw 4/4
 ### CMSC430
-- [ ] Assignment 5 4/7 - In Progress
+- [X] Assignment 5 4/7
 - [ ] Catch up to lectures - In Progress
-- [ ] Exam 4/9
+- [ ] Exam 4/9 - In Progress
   
 ### MATH406
-- [ ] Homework 4/9
+- [X] Homework 4/9
 
 ### CMSC388
 - [ ] Quiz 4/9
