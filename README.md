@@ -4,6 +4,7 @@
 - [ ] Apply to 70 internships 10/70
 - [X] Keep emails to 500 or less
 - [ ] Find a better solution to organizing emails
+- [ ] Get DWM working and configured - 4/21
 
 ## School Work
 ### SOCY325
