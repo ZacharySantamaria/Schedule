@@ -5,7 +5,7 @@
 
 ## School Work
 ### SOCY325
-- [ ] Check for quiz
+- [X] Check for quiz
 
 ### CMSC430
 - [X] Catch up to lectures 
@@ -15,6 +15,8 @@
 
 ### CMSC388
 - [ ] Redo Assignment - No due date yet
+- [ ] Sudy Presentation - 4/30
+- [ ] Project Report - 5/10
 
 ## Projects
 - [ ] Finish documentation 
