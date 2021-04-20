@@ -1,23 +1,20 @@
 # Schedule
 # TODO
-- [ ] Amazon Interview before 4/10
+- [X] Amazon Interview before 4/10
 - [ ] Apply to 70 internships 10/70
 
 ## School Work
 ### SOCY325
-- [X] Paper 4/9
 - [ ] Check for quiz
 
 ### CMSC430
-- [ ] Catch up to lectures - In Progress
+- [X] Catch up to lectures 
   
 ### MATH406
-- [ ] Homework 4/15
 - [ ] Exam 4/23 - Studying
 
 ### CMSC388
-
-
+- [ ] Redo Assignment - No due date yet
 
 ## Projects
 - [ ] Finish documentation 
