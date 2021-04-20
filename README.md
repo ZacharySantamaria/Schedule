@@ -2,6 +2,8 @@
 # TODO
 - [X] Amazon Interview before 4/10
 - [ ] Apply to 70 internships 10/70
+- [X] Keep emails to 500 or less
+- [ ] Find a better solution to organizing emails
 
 ## School Work
 ### SOCY325
