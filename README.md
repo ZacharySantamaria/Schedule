@@ -8,15 +8,12 @@
 - [X] Paper 4/9
 - [ ] Check for quiz
 
-### CMSC417
-- [X] Quiz TuTh
-- [ ] DNS Project 4/14
 ### CMSC430
 - [ ] Catch up to lectures - In Progress
-- [ ] Exam 4/9 - In Progress
   
 ### MATH406
 - [ ] Homework 4/15
+- [ ] Exam 4/23 - Studying
 
 ### CMSC388
 
