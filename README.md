@@ -8,7 +8,7 @@
 
 ## School Work
 ### SOCY325
-- [X] Check for quiz
+- [ ] Check for quiz
 
 ### CMSC430
 - [X] Catch up to lectures 
