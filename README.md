@@ -11,7 +11,7 @@
 - [ ] Check for quiz
 
 ### CMSC430
-- [X] Catch up to lectures 
+- [ ] Catch up to lectures 
   
 ### MATH406
 - [ ] Exam 4/23 - Studying
