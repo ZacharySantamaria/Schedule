@@ -4,7 +4,7 @@
 - [ ] Apply to 70 internships 10/70
 - [X] Keep emails to 500 or less
 - [ ] Find a better solution to organizing emails
-- [ ] Get DWM working and configured - 4/21
+- [X] Get DWM working and configured - 4/21
 
 ## School Work
 ### SOCY325
@@ -14,7 +14,7 @@
 - [ ] Catch up to lectures 
   
 ### MATH406
-- [ ] Exam 4/23 - Studying
+- [X] Exam 4/23
 
 ### CMSC388
 - [ ] Redo Assignment - No due date yet
@@ -24,4 +24,4 @@
 ## Projects
 - [ ] Finish documentation 
 - [ ] Add some stuff to archive
-- [ ] Personal Website
+- [ ] Personal Website - Watch video from network guy on youtube. 
