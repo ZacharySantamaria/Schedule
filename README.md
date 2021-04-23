@@ -1,20 +1,18 @@
 # Schedule
 # TODO
-- [X] Amazon Interview before 4/10
-- [ ] Apply to 70 internships 10/70
 - [X] Keep emails to 500 or less
+- [ ] Amazon Interview Part 1 - 4/24
+- [ ] Apply to 70 internships 10/70
 - [ ] Find a better solution to organizing emails
-- [X] Get DWM working and configured - 4/21
 
 ## School Work
 ### SOCY325
-- [X] Check for quiz
 
 ### CMSC430
 - [ ] Catch up to lectures 
   
 ### MATH406
-- [X] Exam 4/23
+- [ ] Homework 4/30
 
 ### CMSC388
 - [ ] Redo Assignment - No due date yet
