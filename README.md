@@ -9,7 +9,8 @@
 ### SOCY325
 
 ### CMSC430
-- [ ] Catch up to lectures 
+- [ ] Loot Part 2
+- [ ] Assignment 6 - 4/29 
   
 ### MATH406
 - [ ] Homework 4/30
