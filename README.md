@@ -1,7 +1,7 @@
 # Schedule
 # TODO
 - [X] Keep emails to 500 or less
-- [ ] Amazon Interview Part 1 - 4/24
+- [X] Amazon Interview Part 1 - 4/25
 - [ ] Apply to 70 internships 10/70
 - [ ] Find a better solution to organizing emails
 
