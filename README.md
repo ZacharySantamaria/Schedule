@@ -2,7 +2,7 @@
 # TODO
 - [X] Keep emails to 500 or less
 - [X] Amazon Interview Part 1 - 4/25
-- [ ] Apply to 70 internships 10/70
+- [ ] Apply to 70 internships 11/70
 - [ ] Find a better solution to organizing emails
 
 ## School Work
