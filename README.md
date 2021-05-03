@@ -5,6 +5,8 @@
 - [ ] Find a better solution to organizing emails
 - [ ] Installing Arch on my thinkpad
 - [ ] Set up streaming setup for learning algorithms/discret math
+- [ ] Increase typing speed
+- [ ] Scan important docs and place into hdd
 
 ## School Work
 ### SOCY325
