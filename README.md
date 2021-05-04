@@ -1,6 +1,6 @@
 # Schedule
 # TODO
-- [ ] One day internship - In Progress
+- [X] One day internship
 - [ ] Apply to 70 internships 11/70
 - [ ] Find a better solution to organizing emails
 - [ ] Installing Arch on my thinkpad
