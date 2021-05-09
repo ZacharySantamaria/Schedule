@@ -1,7 +1,7 @@
 # Schedule
 # TODO
 - [X] One day internship
-- [ ] Apply to 70 internships 11/70
+- [ ] Apply to 70 internships 12/70
 - [ ] Find a better solution to organizing emails
 - [ ] Installing Arch on my thinkpad
 - [ ] Set up streaming setup for learning algorithms/discret math
@@ -13,14 +13,14 @@
 - [ ] Final 5/10
 
 ### CMSC430
-- [ ] Final Project
+- [ ] Final Project 5/18
   
 ### MATH406
-- [ ] Homework 5/7
+- [ ] Final 5/18
 
 ### CMSC388
 - [ ] Redo Assignment - 5/11
-- [ ] Project Report - 5/7
+- [ ] Project Report - 5/11
 
 ## Projects
 - [ ] Finish documentation 
