@@ -5,7 +5,7 @@
 - [ ] Find a better solution to organizing emails
 - [ ] Installing Arch on my thinkpad
 - [ ] Set up streaming setup for learning algorithms/discret math
-- [ ] Increase typing speed - 50 wpm and 20 wpm with correct hand placement
+- [ ] Increase typing speed - 60 wpm and 30 wpm with correct hand placement
 - [ ] Scan important docs and place into hdd
 
 ## School Work
@@ -23,6 +23,7 @@
 - [ ] Project Report - 5/11
 
 ## Projects
+- [ ] Password Manager - Control - In Progress
 - [ ] Finish documentation 
 - [ ] Add some stuff to archive
 - [ ] Personal Website - Watch video from network guy on youtube. 
