@@ -11,7 +11,8 @@
 ### CMSC 411
 - [ ] Read Chapter 1 and Appendix - In Progress
 
-## Projects
+## Project
+- [ ] Rice my setup. Once it is completed automate it. 
 - [ ] Password Manager - Control - In Progress
 - [ ] Finish documentation 
 - [ ] Add some stuff to archive
