@@ -3,7 +3,8 @@
 
 # Goals
 * Get hired as a programmer
-* Lose weight: 220 currently. This is to make myself embarrassed so I can start decreasing this number. 
+* Lose weight: 220 currently
+  * This is to make myself embarrassed so I can start decreasing this number. 
 
 # current TODOs
 - [ ] Increase typing speed - 60 wpm and 30 wpm with correct hand placement
